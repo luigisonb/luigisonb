@@ -1,4 +1,4 @@
-## <Hello, world/> 🌎  Bem-vindo(a) ao perfil do Luigi
+## <Hello, world/> 🌎  Bem-vindo(a) ao perfil do Luigi 🧀
 
 <div>
   <a href="https://github.com/luigisonb">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ## Desenvolvedor Front-End 
+  ## Desenvolvedor Front-End 🧀
  
 <div> 
   
