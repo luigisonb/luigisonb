@@ -14,7 +14,7 @@
  
  <br>
  
-  ## Desenvolvedora Front-End 💜
+  ## Desenvolvedor Front-End 
  
 <div> 
   
