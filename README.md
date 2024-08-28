@@ -1,7 +1,7 @@
 ## <Hello, world/> 🌎  Bem-vindo(a) ao perfil do Luigi
 
 <div>
-  <a href="https://github.com/amanda-gagliero">
+  <a href="[https://github.com/amanda-gagliero](https://github.com/luigisonb)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-gagliero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-gagliero&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -14,11 +14,11 @@
  
  <br>
  
-  ## Desenvolvedor front-end
+  ## Desenvolvedor Front-End 
  
 <div> 
   
-  <a href = "mailto:luigidouglas77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:amandagagliero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-gagliero-426749207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
